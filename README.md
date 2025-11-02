@@ -11,15 +11,16 @@
 <p>coder (python, luau learning c#)</p>
 <p>makes hacks for games for fun</p>
 
+## general stuff
+<i>age will not be disclosed here</i>
+<p>develops mods in gorilla tag (ill release stuff soon)</p>
+<p>plays alot of games that i cant be bothered to list</p>
+<strong>do not message me for "free gorilla tag mods" or youll be blocked</strong>
+
+
 ## how do i contact u???!!!!!
 <p>discord: <strong>qwertyguy__</strong></p>
 <p>email: <strong>no</strong></p>
 <p>thats it</p>
-
-## general stuff
-<i>age will not be disclosed here</i>
-<p>plays gorilla tag</p>
-<p>plays alot of games that i cant be bothered to list</p>
-<strong>do not message me for "free gorilla tag mods" or youll be blocked</strong>
 
 <p>thats all to see folks!</p>
