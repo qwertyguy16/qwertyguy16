@@ -1,6 +1,12 @@
-## hello there <h1 align="center"><img src="https://github.com/qwertyguy16/qwertyguy16/blob/main/hello-unscreen.gif" width="30%"></h1>
+<h1 align="center">
+  hello there<br>
+  <img src="https://raw.githubusercontent.com/qwertyguy16/qwertyguy16/main/hello-unscreen.gif" width="30%">
+</h1>
+
 <p align="center">im cone or qwertyguy or conedev <strong>im really dumb</strong></p>
+
 <p>amount of times ive been banned from gorilla tag: 3</p>
+
 ## info about me
 <p>coder (python, luau learning c#)</p>
 <p>makes hacks for games for fun</p>
