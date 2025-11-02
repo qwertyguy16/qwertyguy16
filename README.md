@@ -10,3 +10,8 @@
 ## info about me
 <p>coder (python, luau learning c#)</p>
 <p>makes hacks for games for fun</p>
+
+## how do i contact u???!!!!!
+<p>discord: <strong>qwertyguy__</strong></p>
+<p>email: <strong>no</strong></p>
+<p>thats it</p>
