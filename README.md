@@ -17,8 +17,6 @@
 <strong>do not message me for "free gorilla tag mods" or youll be blocked</strong>
 
 ## places i work
-<p>lead developer/co owner @ cone's mods <a href="https://discord.gg/mubZrrsGsf" target="_blank"> <img align = top src="https://github.com/user-attachments/assets/b6bdbf1c-843a-4ccb-a3c6-4ad27c4029f2" alt="Join Discord" width="30"> </a></p>
-<p>manager @ kingdom's mods <a href="https://discord.gg/7vmm6q9HTj" target="_blank"> <img align = top src="https://github.com/user-attachments/assets/b6bdbf1c-843a-4ccb-a3c6-4ad27c4029f2" alt="Join Discord" width="30"> </a></p>
 <p>founder @ zyntra group <a href="https://zyntragroup.co.uk/" target="_blank"> <img align = top src="https://github.com/user-attachments/assets/da90957f-97f2-4665-81b6-c4ce17a62b71" alt="Our Website" width="30"> </a></p> 
 
 ## how do i contact u???!!!!!
