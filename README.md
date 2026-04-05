@@ -1,28 +1,44 @@
 <h1 align="center">
-  hello there<br>
+  hey there 👋<br>
   <img src="https://raw.githubusercontent.com/qwertyguy16/qwertyguy16/main/hello-unscreen.gif" width="30%" alt="hello gif">
 </h1>
 
-<p align="center">im cone or qwertyguy or conedev <strong>im really dumb</strong></p>
+<p align="center">
+  i'm <strong>cone</strong> (aka <strong>qwertyguy</strong> / <strong>conedev</strong>)<br>
+  <em>just a developer who breaks things... then fixes them (sometimes)</em>
+</p>
 
-<p>amount of times ive been banned from gorilla tag: 3</p>
+---
 
-## info about me
-<p>coder (python, luau learning c#)</p>
-<p>makes hacks for games for fun</p>
+## 🧠 about me
+- 💻 coder — **python**, **luau**, currently learning **c#**
 
-## general stuff
-<p>coder / ethical hacker</p>
-<p>plays alot of games that i cant be bothered to list</p>
+---
 
-## places i work
-<p>founder @ zyntra group <a href="https://zyntragroup.co.uk/" target="_blank"> <img align = top src="https://github.com/user-attachments/assets/da90957f-97f2-4665-81b6-c4ce17a62b71" alt="Our Website" width="30"> </a></p>
-<p>developer @ monitry LTD <a href="https://monitry.net/" target="_blank"> <img align = top src="https://github.com/user-attachments/assets/da90957f-97f2-4665-81b6-c4ce17a62b71" alt="Our Website" width="30"> </a></p>
+## 📊 stats (very important)
+- 🚫 banned from gorilla tag: **3 times**
 
-## how do i contact u???!!!!!
-<p>discord: <strong>qwertyguy__</strong></p>
-<p>email: <strong>no</strong></p>
+---
 
+## 🏢 where i work
+- 👑 founder @ **Zyntra Group**  
+  <a href="https://zyntragroup.co.uk/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/da90957f-97f2-4665-81b6-c4ce17a62b71" width="30">
+  </a>
 
-<p>thats all to see folks!</p>
+- 🧑‍💻 developer @ **Monitry LTD**  
+  <a href="https://monitry.net/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/da90957f-97f2-4665-81b6-c4ce17a62b71" width="30">
+  </a>
 
+---
+
+## 📬 contact
+- 💬 discord: **qwertyguy__**
+- 📧 email: **cone@zyntragroup.co.uk**
+
+---
+
+<p align="center">
+  <strong>thanks for stopping by</strong>
+</p>
