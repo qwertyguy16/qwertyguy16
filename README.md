@@ -5,7 +5,7 @@
 
 <p align="center">
   i'm <strong>cone</strong> (aka <strong>qwertyguy</strong> / <strong>conedev</strong>)<br>
-  <em>just a developer who breaks things... then fixes them (sometimes)</em>
+  <em>yet another developer on the internet</em>
 </p>
 
 ---
