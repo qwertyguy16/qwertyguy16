@@ -16,8 +16,9 @@
 ---
 
 ## 📊 stats (very important!!)
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=qwertyguy16&theme=tokyonight&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=qwertyguy16&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400">
 </p>
 
 ---
