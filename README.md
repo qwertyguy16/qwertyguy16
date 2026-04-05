@@ -11,11 +11,11 @@
 ---
 
 ## 🧠 about me
-- 💻 coder — **python**, **luau**, currently learning **c#**
+- 💻 coder — **python**, **luau**, **html**
 
 ---
 
-## 📊 stats (very important)
+## 📊 stats (very important!!)
 - 🚫 banned from gorilla tag: **3 times**
 
 ---
