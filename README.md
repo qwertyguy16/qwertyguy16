@@ -6,9 +6,6 @@
 <p align="center">
   i'm <strong>cone</strong> (aka <strong>qwertyguy</strong> / <strong>conedev</strong>)<br>
   <em>yet another developer on the internet</em>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=qwertyguy16&theme=tokyonight&hide_border=true">
-</p>
 </p>
 
 ---
@@ -19,7 +16,9 @@
 ---
 
 ## 📊 stats (very important!!)
-- 🚫 banned from gorilla tag: **3 times**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=qwertyguy16&theme=tokyonight&hide_border=true">
+</p>
 
 ---
 
