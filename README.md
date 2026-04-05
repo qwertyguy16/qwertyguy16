@@ -21,13 +21,7 @@
 ---
 
 ## 🏢 where i work
-- 👑 founder @ **Zyntra Group**  
-  <a href="https://zyntragroup.co.uk/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/da90957f-97f2-4665-81b6-c4ce17a62b71" width="30">
-  </a>
-
-- 🧑‍💻 developer @ **Monitry LTD**  
-  <a href="https://monitry.net/" target="_blank">
+- 👑 founder @ **Zyntra Group**   <a href="https://zyntragroup.co.uk/" target="_blank">
     <img src="https://github.com/user-attachments/assets/da90957f-97f2-4665-81b6-c4ce17a62b71" width="30">
   </a>
 
