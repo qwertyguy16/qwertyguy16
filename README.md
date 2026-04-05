@@ -6,6 +6,10 @@
 <p align="center">
   i'm <strong>cone</strong> (aka <strong>qwertyguy</strong> / <strong>conedev</strong>)<br>
   <em>yet another developer on the internet</em>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qwertyguy16&show_icons=true&theme=tokyonight&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwertyguy16&layout=compact&theme=tokyonight&hide_border=true" height="150">
+</p>
 </p>
 
 ---
@@ -21,7 +25,8 @@
 ---
 
 ## 🏢 where i work
-- 👑 founder @ **Zyntra Group** https://zyntragroup.co.uk
+- 👑 founder @ **Zyntra Group** https://zyntragroup.co.uk/
+- 🛠️ developer @ **Monitry LTD** https://monitry.net/
 
 ---
 
