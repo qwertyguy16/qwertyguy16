@@ -24,7 +24,9 @@
 ---
 
 ## 🏢 where i work
-- 👑 founder @ **Zyntra Group** https://zyntragroup.co.uk/
+- 👑 former founder @ **Zyntra Group** https://zyntragroup.co.uk/
+- 👑 founder @ **Argus Group** https://argusgroup.co.uk/
+- 👑 owner @ **Infra** https://discord.gg/4KhHaHv8Ry
 - 🛠️ developer @ **Monitry LTD** https://monitry.net/
 
 ---
