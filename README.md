@@ -11,7 +11,7 @@
 ---
 
 ## 🧠 about me
-- 💻 coder — **python**, **luau**, **html**
+- 💻 developer — **python**, **luau**, **html**, **css**, **typescript**, **sql**
 
 ---
 
