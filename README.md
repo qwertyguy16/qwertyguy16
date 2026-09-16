@@ -33,7 +33,7 @@
 
 ## 📬 contact
 - 💬 discord: **qwertyguy__**
-- 📧 email: **cone@zyntragroup.co.uk**
+- 📧 email: **cone@argusgroup.co.uk**
 
 ---
 
